@@ -9,6 +9,10 @@ academic interface suitable for a PhD-level project.
 
 import os
 import time
+
+import os
+os.environ["OPENCV_VIDEOIO_PRIORITY_MSMF"] = "0"
+
 import cv2
 import numpy as np
 import streamlit as st
