@@ -21,8 +21,8 @@ import os
 # ---------------------------------------------------------------
 img_path = "/data/users2/vsolomon3/csc8830-cv-assignment2/data/scenes/scene_earbud.jpg"
 out_dir = "data/results"
-kernel_size = 25    # Gaussian blur kernel size
-sigma = 5.0         # Standard deviation of Gaussian
+kernel_size = 61    # Gaussian blur kernel size
+sigma = 15       # Standard deviation of Gaussian
 K = 0.01            # Wiener filter constant
 
 os.makedirs(out_dir, exist_ok=True)
