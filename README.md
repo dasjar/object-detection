@@ -92,6 +92,13 @@ Then open your browser:
 http://localhost:8501
 ```
 
+🌐 Live Deployment
+
+The same app is deployed online here:
+
+Live Streamlit App:
+https://dasjar.github.io/computer-vision-apps-hub/
+
 **Features**
 - Scene selection dropdown  
 - Automatic matching (no template selection needed)  
