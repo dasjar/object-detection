@@ -1,11 +1,7 @@
 numpy
-matplotlib
-scipy
-streamlit
-Pillow
-scikit-image
-streamlit
 streamlit
 opencv-python-headless==4.6.0.66
-numpy
-
+Pillow
+scipy
+matplotlib
+scikit-image
